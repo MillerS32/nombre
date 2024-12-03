@@ -1,0 +1,37 @@
+
+.cabecera{
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+
+.logo img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu nav a{
+    display: flex;
+    display: inline-block;
+    align-items: center;
+    padding: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: rgb(76, 80, 80);
+}
+
+.idioma button{
+    padding: 15px 13.5px 15px 13.5px;
+    background-color: rgb(122, 122, 122);
+    border: none;
+    color: aliceblue;
+
+}
+.idioma .EUS{
+    padding: 15px 9px 15px 9px;
+}
+
